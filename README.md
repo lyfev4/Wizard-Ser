@@ -73,7 +73,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![shanib](https://i.imgur.com/TO3H9PV.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
+   [![shanib](https://i.imgur.com/TO3H9PV.jpeg)](https://github.com/lyfev4/Wizard-Ser)[`𝐬𝐡𝐚𝐧𝐮`](https://github.com/lyfev4/Wizard-Ser)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
