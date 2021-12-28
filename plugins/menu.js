@@ -168,8 +168,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     if (teks == '404') {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
-          "title": `ᴡɪᴢᴀʀᴅ sᴇʀ  ʙʏ ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ,
-┌─────❲ *ᴡɪᴢᴀʀᴅ sᴇʀ* ❳
+          "title": `𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪,
+┌─────❲ *𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪* ❳
 ┊
 └─────────────────❋ཻུ۪۪⸙
         
@@ -184,21 +184,21 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┊☞ 🧭 *TIME* : ${time},
 ┊☞ 💫 *WEEK* : ${week},
 ┊☞ ✅ *DATE* : ${date},
-┊☞ 💝 *OWNER* : ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ
+┊☞ 💝 *OWNER* : 𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪
 ┊☞ 🖌️ *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
-┊☞ ☮️ *BOT NAME* : ᴡɪᴢᴀʀᴅ sᴇʀ
+┊☞ ☮️ *BOT NAME* : 𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪
 └─────────────────⸙ \n\ ______`
           
            .trim(),
-           "description": "*DON'T SPAM*",
+           "description": "*𝐒𝚮𝚲𝚴𝐔🦄*",
           "buttonText": "Click  Here",
           "listType": "SINGLE_SELECT",
           "sections": [
             {
               "rows": [
                 {
-                  "title": `WIZARD SER`,
-                  "description": "Wizard ser git link",
+                  "title": `𝐒𝚮𝚲𝚴𝚰𝚩𝐒𝚵𝚪`,
+                  "description": "𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
