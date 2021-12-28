@@ -14,7 +14,7 @@ const defaultMenu = {
 🔸 Github: [ RELEASING SOON ]
 
 
-     〘 *WIZARD SER* 〙
+     〘 *SHANIB SER* 〙
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
   body: '├ %cmd',
