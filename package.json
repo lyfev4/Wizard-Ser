@@ -1,7 +1,7 @@
 {
-  "name": "Wizard-Ser",
+  "name": "shanib-ser",
   "version": "1.1.2",
-  "description": "WhatsApp Bot",
+  "description": "SHANIB-SER WhatsApp Bot",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -19,7 +19,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ajmal-Achu",
+  "author": "SHANIB-SER",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
