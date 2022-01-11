@@ -18,7 +18,7 @@ If the warning reaches 5 you will be banned
 type *#on antibadword* to turn on antibadword
 type *#sorry* to reduce the warning
 
-"Never use a big word when a little filthy one will do" (Wizard-Ser).`, watermark, 'Turn on Antibadword', ',1 antibadword',  'sorry', m)
+"Never use a big word when a little filthy one will do" (shanib-ser).`, watermark, 'Turn on Antibadword', ',1 antibadword',  'sorry', m)
         if (user.warning >= 5) {
             user.banned = true
             if (m.isGroup) {
