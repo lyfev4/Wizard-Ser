@@ -254,7 +254,7 @@ const buttons = [
 {buttonId: `/owner`, buttonText: {displayText: 'owner'}, type: 1}
 ]
 const buttonsMessage = {
-    contentText: `Ｈｉ ｕｓｅｒ\nᵢₘ  ${itsu.user.name} \n\n\n- Bot group: ᴛʜᴀʟᴋᴀᴀʟᴀᴍ ɢʀᴏᴜᴘ ɪʟʟᴀ\n\n- Github : https://github.com/Ajmal-Achu\n\n`,
+    contentText: `Ｈｉ ｕｓｅｒ\nᵢₘ  ${itsu.user.name} \n\n\n- Bot group: ᴛʜᴀʟᴋᴀᴀʟᴀᴍ ɢʀᴏᴜᴘ ɪʟʟᴀ\n\n- Github : https://github.com/lyfev4\n\n`,
     footerText: text,
     buttons: buttons,
     headerType: 4,
