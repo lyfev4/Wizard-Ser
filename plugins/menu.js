@@ -184,7 +184,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┊☞ 🧭 *TIME* : ${time},
 ┊☞ 💫 *WEEK* : ${week},
 ┊☞ ✅ *DATE* : ${date},
-┊☞ 💝 *OWNER* : 𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪
+┊☞ 💝 *OWNER* :Wa.me/+918075168486
 ┊☞ 🖌️ *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
 ┊☞ ☮️ *BOT NAME* : 𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪
 └─────────────────⸙ \n\ ______`
@@ -198,11 +198,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               "rows": [
                 {
                   "title": `𝐒𝚮𝚲𝚴𝚰𝚩𝐒𝚵𝚪`,
-                  "description": "𝐒𝚮𝚲𝚴𝚰𝚩 𝐒𝚵𝚪",
+                  "description": "😹❤️",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
-                  "description": "Game features",
+                  "description": "play cheyy mwona😚❤️",
                   "rowId": ".? game"
 
                 }, {
@@ -277,7 +277,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "rowId": ".? database"
                 },{
                   "title": "Owner",
-                  "description": "Owner's special features",
+                  "description": "njan thanne ahn mwonu😒😹❣️",
                   "rowId": ".? owner"
                 }
               ]
@@ -365,7 +365,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/reduced_IMG-20211219-WA0031_2.jpg")).buffer(), text.trim(), '© ᴡɪᴢᴀʀᴅ sᴇʀ ©', 'Owner Bot', ',owner', 'All Commands', '.? all', m)
+    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/reduced_IMG-20211219-WA0031_2.jpg")).buffer(), text.trim(), '©SHANIB SER©', 'Owner Bot', ',owner', 'All Commands', '.? all', m)
   } catch (e) {
     conn.reply(m.chat, 'Sorry, Try Again', m)
     throw e
