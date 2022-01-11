@@ -66,6 +66,6 @@ module.exports = {
                     m.sender
                 )
             ])
-        })
+        }
     }
 }
