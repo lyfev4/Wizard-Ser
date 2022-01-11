@@ -49,7 +49,7 @@ means you bet 100 XP.
         end = `Less fortunate 👍 *+1 XP*`
         users.exp += 1
     } else {
-        end = `You lose😥 *-${taruhan} XP*`
+        end = `ninakk kalikan ariyathilla🤭 *-${taruhan} XP*`
         users.exp -= taruhan
     }
     users.lastslot = new Date * 1
