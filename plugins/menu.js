@@ -365,13 +365,13 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/reduced_IMG-20211219-WA0031_2.jpg")).buffer(), text.trim(), '©SHANIB SER©', 'Owner Bot', ',owner', 'All Commands', '.? all', m)
+    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/sh.jpg")).buffer(), text.trim(), '©SHANIB SER©', 'Owner Bot', ',owner', 'All Commands', '.? all', m)
   } catch (e) {
     conn.reply(m.chat, 'Sorry, Try Again', m)
     throw e
   }
 }
-handler.help = ['menu', 'help','list','wizard', '?']
+handler.help = ['menu', 'help','list','shanib', '?']
 handler.tags = ['main']
 handler.command = /^(listt|\?)$/i
 handler.owner = false
